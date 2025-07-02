@@ -21,13 +21,13 @@
 
 ## 🛠️ Featured Projects
 
-### 🎯 [PosterCraft](https://github.com/Ephemeral182/PosterCraft)
+### 🎯 [PosterCraft](https://github.com/Ephemeral182/PosterCraft) (arXiv'2025)
 > Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework
 
-### 🌦️ [T3-DiffWeather](https://github.com/Ephemeral182/ECCV24_T3-DiffWeather)  
+### 🌦️ [T3-DiffWeather](https://github.com/Ephemeral182/ECCV24_T3-DiffWeather) (ECCV'2024)
 > Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint
 
-### 🔍 [UDR-S2Former](https://github.com/Ephemeral182/UDR-S2Former_deraining)
+### 🔍 [UDR-S2Former](https://github.com/Ephemeral182/UDR-S2Former_deraining) (ICCV'2023)
 > Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks
 
 ## 📊 Latest News & GitHub Stats
