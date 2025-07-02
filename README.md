@@ -7,7 +7,7 @@
 ## 🧑‍🎓 About Me
 
 🎓 **PhD Student & AI Researcher** at Hong Kong University of Science and Technology (Guangzhou)  
-🔬 **Research Focus**: AIGC, Low-level Vision, Image Restoration, Multimodal Large Language Models  
+🔬 **Research Focus**: AIGC, Image Restoration, Multimodal Large Language Models  
 📍 **Location**: Guangzhou, China  
 🌐 **Website**: [ephemeral182.github.io](https://ephemeral182.github.io/)
 
@@ -16,16 +16,6 @@
 - 🎨 **AIGC** (Artificial Intelligence Generated Content) technology
 - 🖼️ **Image Restoration** under real-world conditions  
 - 🤖 **Multimodal Large Language Models (MLLM)** for intelligent visual applications
-- 🌟 **Low-level Computer Vision** tasks
-
-## 🏆 Recent Achievements
-
-- 🚀 **PosterCraft**: Unified framework for high-quality aesthetic poster generation
-- 📄 **1 paper accepted** by ICCV'2025 (GenHaze)
-- 📄 **3 papers accepted** by CVPR'2025
-- 📄 **4 papers accepted** by AAAI'2025  
-- 📄 **1 paper accepted** by NeurIPS'2024
-- 📄 **2 papers accepted** by ECCV'2024
 
 ## 🛠️ Featured Projects
 
@@ -42,28 +32,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ephemeral182&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephemeral182&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
-## 🎯 Academic Service
 
-**🔍 Reviewer for:**
-- ICCV'2025, NeurIPS'2025, CVPR'2025, ICML'2025, ICLR'2025
-- IEEE TIP, TITS, TCSVT, TMM
-- ACM MM, ECCV, NeurIPS'2024
-
-## 📈 Research Impact
-
-```text
-📄 Publications: 15+ papers in top-tier venues
-⭐ Citations: Growing impact in CV & AI community  
-🏆 Awards: Outstanding Graduate, PG Scholarship HKUST(GZ)
-🔬 Research Areas: Computer Vision, AIGC, Image Processing
-```
 
 ## 🌟 Latest News
 
@@ -72,14 +44,19 @@
 - **📄 Apr 2025**: GPT-4o evaluation report on arXiv
 - **🎊 Feb 2025**: 3 papers accepted by CVPR'2025
 
-## 📫 Connect with Me
+## 📫 Let's Connect!
 
 <div align="center">
-  
-[![Website](https://img.shields.io/badge/Website-ephemeral182.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ephemeral182.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ephemeral182)
-[![Email](https://img.shields.io/badge/Email-ephemeral182%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ephemeral182@gmail.com)
+
+🌐 **Website**: [ephemeral182.github.io](https://ephemeral182.github.io/) | 🎓 **Scholar**: [Google Scholar](https://scholar.google.com) | 📧 **Email**: [ephemeral182@gmail.com](mailto:ephemeral182@gmail.com)
+
+<br>
+
+[![Website](https://img.shields.io/website?label=Portfolio&style=flat-square&url=https%3A%2F%2Fephemeral182.github.io%2F&color=4A90E2)](https://ephemeral182.github.io/)
+[![GitHub followers](https://img.shields.io/github/followers/Ephemeral182?label=Follow&style=flat-square&color=333)](https://github.com/Ephemeral182)
+[![Email](https://img.shields.io/badge/Email-Available-green?style=flat-square&color=28a745)](mailto:ephemeral182@gmail.com)
+
+<sub>🚀 <i>"Building the future of AI, one commit at a time"</i></sub>
 
 </div>
 
