@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=header&text=Sixiang%20Chen&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=header&text=Sixiang%20Chen&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Losing+Ground+Now%2C+Gaining+Miles+Tomorrow%21" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Losing+Ground+Now%2C+Gaining+Miles+Tomorrow%21&size=24" alt="Typing SVG" />
 </div>
 
 
@@ -31,21 +31,29 @@
 ### 🔍 [UDR-S2Former](https://github.com/Ephemeral182/UDR-S2Former_deraining)
 > Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Latest News
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">📊 GitHub Stats</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🌟 Latest News</h3>
+        <ul>
+          <li><strong>🚀 Jun 2025</strong>: Released PosterCraft framework</li>
+          <li><strong>🎉 Jun 2025</strong>: GenHaze accepted by ICCV'2025</li>
+          <li><strong>📄 Apr 2025</strong>: GPT-4o evaluation report on arXiv</li>
+          <li><strong>🎊 Feb 2025</strong>: 3 papers accepted by CVPR'2025</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
-
-
-
-
-## 🌟 Latest News
-
-- **🚀 Jun 2025**: Released PosterCraft framework
-- **🎉 Jun 2025**: GenHaze accepted by ICCV'2025  
-- **📄 Apr 2025**: GPT-4o evaluation report on arXiv
-- **🎊 Feb 2025**: 3 papers accepted by CVPR'2025
 
 ## 📫 Let's Connect!
 
