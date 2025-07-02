@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Losing+Ground+Now%2C+Gaining+Miles+Tomorrow%21&size=24" alt="Typing SVG" />
+  <div style="transform: skew(-15deg, 0deg);">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Losing+Ground+Now%2C+Gaining+Miles+Tomorrow%21&size=24" alt="Typing SVG" />
+  </div>
 </div>
 
 
