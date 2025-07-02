@@ -33,16 +33,7 @@
 
 ## 📊 GitHub Stats & Latest News
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
-<div style="width: 40%;">
-
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-</div>
-
-<div style="width: 45%;">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 ### 🌟 Latest News
 - **🚀 Jun 2025**: Released PosterCraft framework
@@ -50,9 +41,7 @@
 - **📄 Apr 2025**: GPT-4o evaluation report on arXiv
 - **🎊 Feb 2025**: 3 papers accepted by CVPR'2025
 
-</div>
-
-</div>
+<br clear="left"/>
 
 ## 📫 Let's Connect!
 
