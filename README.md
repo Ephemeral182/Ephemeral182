@@ -39,8 +39,9 @@
 - **🎉 Jun 2025**: GenHaze accepted by ICCV'2025.
 - **📄 Apr 2025**: GPT-4o evaluation report on arXiv.
 - **🎊 Feb 2025**: 3 papers accepted by CVPR'2025.
-- **🎊 Dec 2024**: 4 papers accepted by AAAI'2025.
 - **🎉 Sept 2024**: 1 paper accepted by NeurIPS'2024.
+- **🎊 Jul 2024**: 1 paper accepted by ECCV'2024.
+
 
 
 ## 📫 Let's Connect!
