@@ -14,7 +14,7 @@
 ## 🧑‍🎓 About Me
 
 🎓 **PhD Student & AI Researcher** at Hong Kong University of Science and Technology (Guangzhou)  
-🔬 **Research Focus**: AIGC, Multimodal Large Language Models, Image Restoration 
+🔬 **Research Focus**: AIGC, Multimodal Large Language Models, Image Restoration  
 📍 **Location**: Guangzhou, China  
 🌐 **Website**: [ephemeral182.github.io](https://ephemeral182.github.io/)
 
