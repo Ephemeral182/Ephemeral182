@@ -33,26 +33,25 @@
 
 ## 📊 GitHub Stats & Latest News
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="50%" valign="top" style="border: none;">
-        <h3 align="center">📊 GitHub Stats</h3>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-        </div>
-      </td>
-      <td width="50%" valign="top" style="border: none;">
-        <h3 align="center">🌟 Latest News</h3>
-        <ul>
-          <li><strong>🚀 Jun 2025</strong>: Released PosterCraft framework</li>
-          <li><strong>🎉 Jun 2025</strong>: GenHaze accepted by ICCV'2025</li>
-          <li><strong>📄 Apr 2025</strong>: GPT-4o evaluation report on arXiv</li>
-          <li><strong>🎊 Feb 2025</strong>: 3 papers accepted by CVPR'2025</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+<div style="width: 48%;">
+
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+</div>
+
+<div style="width: 48%;">
+
+### 🌟 Latest News
+- **🚀 Jun 2025**: Released PosterCraft framework
+- **🎉 Jun 2025**: GenHaze accepted by ICCV'2025  
+- **📄 Apr 2025**: GPT-4o evaluation report on arXiv
+- **🎊 Feb 2025**: 3 papers accepted by CVPR'2025
+
+</div>
+
 </div>
 
 ## 📫 Let's Connect!
