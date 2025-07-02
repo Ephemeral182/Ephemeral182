@@ -33,7 +33,7 @@
 
 ## 📊 Latest News & GitHub Stats
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=tokyonight&hide_border=true&card_width=380&card_height=280" alt="GitHub Stats" />
 
 ### 🌟 Latest News
 - **🚀 Jun 2025**: Released PosterCraft framework
