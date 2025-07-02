@@ -10,15 +10,10 @@
 ## 🧑‍🎓 About Me
 
 🎓 **PhD Student & AI Researcher** at Hong Kong University of Science and Technology (Guangzhou)  
-🔬 **Research Focus**: AIGC, Image Restoration, Multimodal Large Language Models  
+🔬 **Research Focus**: AIGC, Multimodal Large Language Models, Image Restoration 
 📍 **Location**: Guangzhou, China  
 🌐 **Website**: [ephemeral182.github.io](https://ephemeral182.github.io/)
 
-## 🔬 Research Interests
-
-- 🎨 **AIGC** (Artificial Intelligence Generated Content) technology
-- 🖼️ **Image Restoration** under real-world conditions  
-- 🤖 **Multimodal Large Language Models (MLLM)** for intelligent visual applications
 
 ## 🛠️ Featured Projects
 
@@ -52,11 +47,10 @@
 
 <br>
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=flat-square&url=https%3A%2F%2Fephemeral182.github.io%2F&color=8B5CF6)](https://ephemeral182.github.io/)
+[![WeChat](https://img.shields.io/badge/WeChat-Contact-8B5CF6?style=flat-square&logo=wechat&logoColor=white)](https://ephemeral182.github.io/)
 [![GitHub followers](https://img.shields.io/github/followers/Ephemeral182?label=Follow&style=flat-square&color=8B5CF6)](https://github.com/Ephemeral182)
 [![Email](https://img.shields.io/badge/Email-Available-8B5CF6?style=flat-square&color=8B5CF6)](mailto:ephemeral182@gmail.com)
 
-<sub>🚀 <i>"Building the future of AI, one commit at a time"</i></sub>
 
 </div>
 
