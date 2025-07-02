@@ -33,6 +33,8 @@
 
 ## 📊 Latest News & GitHub Stats
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+
 ### 🌟 Latest News
 - **🚀 Jun 2025**: Released PosterCraft framework
 - **🎉 Jun 2025**: GenHaze accepted by ICCV'2025  
@@ -40,8 +42,6 @@
 - **🎊 Feb 2025**: 3 papers accepted by CVPR'2025
 - **🎊 Dec 2024**: 4 papers accepted by AAAI'2025
 - **🎉 Sep 2024**: 1 paper accepted by NeurIPS'2024
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 <br clear="right"/>
 
