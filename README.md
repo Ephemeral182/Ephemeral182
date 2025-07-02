@@ -43,7 +43,6 @@
 - **🎊 Dec 2024**: 4 papers accepted by AAAI'2025.
 - **🎉 Sept 2024**: 1 paper accepted by NeurIPS'2024.
 
-<br clear="right"/>
 
 ## 📫 Let's Connect!
 
