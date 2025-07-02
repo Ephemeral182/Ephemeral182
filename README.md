@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&pause=1000&color=8B5CF6&center=true&vCenter=true&width=450&lines=Losing+Ground+Now%2C+Gaining+Miles+Tomorrow%21&size=28" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ephemeral182&label=Profile%20views&color=8B5CF6&style=flat" alt="Profile Views" />
+
+</div>
 
 ## 🧑‍🎓 About Me
 
@@ -54,10 +58,3 @@
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ephemeral182&label=Profile%20views&color=8B5CF6&style=flat" alt="Profile Views" />
-  
-  ⭐️ **"Exploring the frontier of AI-generated content and computer vision"** ⭐️
-</div>
