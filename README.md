@@ -34,15 +34,15 @@
 ## 📊 GitHub Stats & Latest News
 
 <div align="center">
-  <table>
+  <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" style="border: none;">
         <h3 align="center">📊 GitHub Stats</h3>
         <div align="center">
           <img src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
         </div>
       </td>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" style="border: none;">
         <h3 align="center">🌟 Latest News</h3>
         <ul>
           <li><strong>🚀 Jun 2025</strong>: Released PosterCraft framework</li>
