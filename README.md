@@ -33,7 +33,7 @@
 
 ## 📊 Latest News & GitHub Stats
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=tokyonight&hide_border=true&card_width=400&card_height=280" alt="GitHub Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=radical&hide_border=true&card_width=400&card_height=280&bg_color=1a1b27&title_color=8B5CF6&text_color=a9b1d6&icon_color=bb9af7" alt="GitHub Stats" />
 
 ### 🌟 Latest News
 - **🚀 Jun 2025**: Released PosterCraft framework.
@@ -52,9 +52,9 @@
 
 <br>
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=flat-square&url=https%3A%2F%2Fephemeral182.github.io%2F&color=4A90E2)](https://ephemeral182.github.io/)
-[![GitHub followers](https://img.shields.io/github/followers/Ephemeral182?label=Follow&style=flat-square&color=333)](https://github.com/Ephemeral182)
-[![Email](https://img.shields.io/badge/Email-Available-green?style=flat-square&color=28a745)](mailto:ephemeral182@gmail.com)
+[![Website](https://img.shields.io/website?label=Portfolio&style=flat-square&url=https%3A%2F%2Fephemeral182.github.io%2F&color=8B5CF6)](https://ephemeral182.github.io/)
+[![GitHub followers](https://img.shields.io/github/followers/Ephemeral182?label=Follow&style=flat-square&color=8B5CF6)](https://github.com/Ephemeral182)
+[![Email](https://img.shields.io/badge/Email-Available-8B5CF6?style=flat-square&color=8B5CF6)](mailto:ephemeral182@gmail.com)
 
 <sub>🚀 <i>"Building the future of AI, one commit at a time"</i></sub>
 
@@ -63,7 +63,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ephemeral182&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ephemeral182&label=Profile%20views&color=8B5CF6&style=flat" alt="Profile Views" />
   
   ⭐️ **"Exploring the frontier of AI-generated content and computer vision"** ⭐️
 </div>
