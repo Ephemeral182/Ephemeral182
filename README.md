@@ -35,14 +35,14 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-<div style="width: 45%;">
+<div style="width: 40%;">
 
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 </div>
 
-<div style="width: 48%;">
+<div style="width: 45%;">
 
 ### 🌟 Latest News
 - **🚀 Jun 2025**: Released PosterCraft framework
