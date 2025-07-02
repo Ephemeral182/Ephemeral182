@@ -51,7 +51,7 @@
 
 <br>
 
-[![WeChat](https://img.shields.io/badge/csx18259166302-8B5CF6?style=flat-square&logo=wechat&logoColor=white)](#)
+![WeChat](https://img.shields.io/badge/WeChat-csx18259166302-8B5CF6?style=flat-square&logo=wechat&logoColor=white)
 [![GitHub followers](https://img.shields.io/github/followers/Ephemeral182?label=Follow&style=flat-square&color=8B5CF6)](https://github.com/Ephemeral182)
 [![Email](https://img.shields.io/badge/Email-Available-8B5CF6?style=flat-square&color=8B5CF6)](mailto:ephemeral182@gmail.com)
 
