@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sixiang+Chen!+%F0%9F%91%8B;PhD+Student+%26+AI+Researcher;Passionate+about+AIGC+%26+Computer+Vision" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Sixiang%20Chen&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Losing+Ground+Now%2C+Gaining+Miles+Tomorrow%21" alt="Typing SVG" />
 </div>
 
 <h1 align="center">👋 Welcome to my GitHub!</h1>
