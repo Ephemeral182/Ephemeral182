@@ -41,9 +41,9 @@
 - **🎊 Dec 2024**: 4 papers accepted by AAAI'2025
 - **🎉 Sept 2024**: 1 paper accepted by NeurIPS'2024
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ephemeral182&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<br clear="left"/>
+<br clear="right"/>
 
 ## 📫 Let's Connect!
 
